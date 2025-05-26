@@ -11,9 +11,9 @@ markdown
 ## 🔧 Основные оптимизации
 
 ### 🚀 Системные настройки
-```bash
+
 # Обновление системы
-sudo dnf upgrade --refresh
+```bash sudo dnf upgrade --refresh```
 
 # Установка fastfetch (альтернатива neofetch)
 sudo dnf install fastfetch
